@@ -1,5 +1,5 @@
 <template>
-    <div class="row">
+    /*<div class="row">
         <div class="col-md-6">
             <img src="../assets/Kopdig.id.png" alt="">
         </div>
