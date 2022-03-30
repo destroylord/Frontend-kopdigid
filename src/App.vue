@@ -8,8 +8,8 @@ import Footer from './components/Footer.vue';
 </script>
 
 <template>
-<div class="container">
 <Navbar/>
+<div class="container">
 <router-view></router-view>
   <!-- <img alt="Vue logo" src="./assets/logo.png" />
   <HelloWorld msg="Hello Vue 3 + Vite " /> -->
