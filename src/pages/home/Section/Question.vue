@@ -1,8 +1,9 @@
 <template>
+<section class="question">
     <div class="row">
         <div class="col-md-12 text-center">
-            <h2>Pertanyaan Yang Sering Diajukan</h2>
-            <p>
+            <h2 class="p-4">Pertanyaan Yang Sering Diajukan</h2>
+            <p class="mb-4">
                 Kami memiliki banyak jaringan luas hubungan sehingga dapat memenuhi berbagai kebutuhan pelanggan dan mitra.
             </p>
         </div>
@@ -41,4 +42,10 @@
                 </div>
         </div>
     </div>
+</section>
 </template>
+<style>
+    .question{
+        height: 450px;
+    }
+</style>

@@ -1,7 +1,8 @@
 <template>
+<section class="layanan">
     <div class="row">
         <div class="col-md-12">
-            <h2 class="text-center">Layanan Platform Kami</h2>
+            <h2 class="text-center p-4">Layanan Platform Kami</h2>
         </div>
         <div class="col-md-4">
             <div class="card">
@@ -31,4 +32,5 @@
             </div>
         </div>
     </div>
+</section>
 </template>

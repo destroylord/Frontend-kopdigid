@@ -1,4 +1,5 @@
 <template>
+<footer>
     <div class="row">
         <div class="col-md-9">
             <img src="../assets/Kopdig.id.png" alt="" class="logo-footer">
@@ -35,8 +36,12 @@
             </div>
         </div>
     </div>
+</footer>
 </template>
 <style>
+footer{
+    height: 200px;
+}
     .logo-footer{
         width: 20%;
     }
