@@ -1,10 +1,17 @@
+<script setup>
+    import Header from '../home/Section/Header.vue'
+    import Section1 from '../home/Section/Section-1.vue'
+    import Layanan from '../home/Section/Layanan.vue'
+    import Berita from '../home/Section/Berita.vue'
+    import Partner from '../home/Section/Partner.vue'
+    import Question from '../home/Section/Question.vue'
+</script>
+
 <template>
-    <div class="row">
-        <div class="col-md-6">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Reprehenderit doloribus atque incidunt sint voluptate, itaque soluta hic placeat cumque nostrum. Inventore impedit ad sit vel quisquam unde similique non eligendi?
-        </div>
-        <div class="col-md-6">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit voluptatum eveniet repellat facilis optio perferendis, enim commodi minima quas ex velit, deleniti odit. Tempora quam explicabo reprehenderit earum dignissimos cumque?
-        </div>
-    </div>
+   <Header/>
+   <Section1/>
+   <Layanan/>
+   <Berita/>
+   <Partner/>
+   <Question/>
 </template>
