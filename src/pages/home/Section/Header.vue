@@ -10,8 +10,8 @@
                     Digicoop.ind adalah sebuah platform koperasi digital yang bertujuan untuk mengoptimalisasikan fungsi dan efisiensi dari suatu koperasi. 
                 </p>
 
-                <button class="btn btn-success">
-                    Saya Tertarik
+                <button class="btn btn-success" style="background-color: #95AE36">
+                    Saya Tertarik!
                 </button>
             </div>
             <div class="col-lg-6">

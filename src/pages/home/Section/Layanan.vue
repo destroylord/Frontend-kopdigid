@@ -8,7 +8,7 @@
                 <div class="card-body">
                     <h3>Kopdig Koperasi</h3>
                     <p>Monitoring dan Manage anggota anda dengan lebih mudah </p>
-                    <button class="btn btn-primary">Saya Mau Baca</button>
+                    <button class="btn btn-primary" style="background-color: #95AE36">Saya Mau Baca</button>
                 </div>
             </div>
         </div>
@@ -17,7 +17,7 @@
                 <div class="card-body">
                     <h3>Kopdig Simpan Pinjam</h3>
                     <p>Layanan peminjaman dan penyimpanan dana yang ditujukan untuk para anggota</p>
-                    <button class="btn btn-primary">Saya Mau Baca</button>
+                    <button class="btn btn-primary" style="background-color: #95AE36">Saya Mau Baca</button>
                 </div>
             </div>
         </div>
@@ -26,7 +26,7 @@
                 <div class="card-body">
                     <h3>Kopdig Market</h3>
                     <p>Jutaan produk berkualitas untuk menunjang bisnis Anda</p>
-                    <button class="btn btn-primary">Saya Mau Baca</button>
+                    <button class="btn btn-primary" style="background-color: #95AE36">Saya Mau Baca</button>
                 </div>
             </div>
         </div>

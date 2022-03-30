@@ -14,5 +14,6 @@
 <style>
     .img-right{
         width: 10%;
+        float: right;
     }
 </style>
