@@ -1,3 +1,10 @@
+<script setup>
+    import Header from '../koperasi/Section/Header.vue'
+    import Section1 from '../koperasi/Section/Section-1.vue'
+
+</script>
+
 <template>
-    Koperasi
+    <Header/>
+    <Section1/>
 </template>
