@@ -1,4 +1,5 @@
 <template>
+<link rel="stylesheet" href="assets/css/custom.css">
  <section class="section bg-light" id="plans">
             <div class="bg-overlay bg-overlay-pattern"></div>
             <div class="container">
