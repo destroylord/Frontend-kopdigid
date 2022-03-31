@@ -6,8 +6,12 @@ Website: https://themesbrand.com/
 Contact: support@themesbrand.com
 File: Custom Css File */
 
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
 .btn-primary {
-    background: #95AE36;
+    background-color: #95AE36;
     border-color: #95AE36;
     border-radius: 15px;
     font-display: inherit;
@@ -21,6 +25,8 @@ File: Custom Css File */
     font-style: center;
 
 }
+
+
 
 .txt {
 
@@ -69,10 +75,10 @@ File: Custom Css File */
     width: 402px;
     height: 812px;
     border-radius: 30px;
-    margin-left: 150px;
+    margin-left: 225px;
 }
 
-.card {
+.crd1 {
     border-radius: 40px;
     background-color: #E9F0CD;
     width: 324px;
@@ -90,9 +96,18 @@ File: Custom Css File */
 .crd {
     margin-left: 225px;
     margin-top: 50px;
+    font-family: 'Poppins';
+    border-radius: 40px;
+    background-color: #E9F0CD;
+    width: 324px;
+    height: 233.3px;
+   
 }
 
 .crd2 {
-    margin-right: 225px;
+    margin-top: -150px;
+    width: 324px;
+    height: 233.3px;
+    margin-bottom: 400px;
 }
 
